@@ -79,7 +79,6 @@ def pcode():
         input('\n\n'+colored('python3','blue')+colored(' PyBirthdayWish.py','yellow'))
         os.system('cls' if os.name == 'nt' else 'clear')
     else:
-        input(colored('press F11 and hit {Enter}...','blue'))
         os.system('cls' if os.name == 'nt' else 'clear')
 
 # Clearing terminal
